@@ -45,7 +45,7 @@ Construir um painel analítico que permita:
 
 ## 📊 Dashboard
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard de Vendas](images/dashboard.png)
 
 ---
 
