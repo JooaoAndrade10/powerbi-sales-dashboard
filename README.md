@@ -89,7 +89,9 @@ Este projeto marca o início da minha jornada prática em Análise de Dados, com
 
 ## 📌 Créditos
 
-Projeto desenvolvido como parte do meu aprendizado prático, inspirado na metodologia do canal Data Alchemist.
+"Projeto desenvolvido como parte do meu estudo prático, baseado na metodologia do canal do Youtube Data Alchemist. Adaptar esse dashboard me permitiu aprender ferramentas de Power Query e DAX."
+
+Link do canal: https://lnkd.in/dtSa7nAX
 
 ---
 
